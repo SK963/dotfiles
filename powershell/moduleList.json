@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "oh-my-posh",
+    "Version": {
+      "Major": 7,
+      "Minor": 85,
+      "Build": 2,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  {
+    "Name": "posh-git",
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Build": 0,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  {
+    "Name": "PSFzf",
+    "Version": {
+      "Major": 2,
+      "Minor": 6,
+      "Build": 1,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  {
+    "Name": "PSReadLine",
+    "Version": {
+      "Major": 2,
+      "Minor": 3,
+      "Build": 6,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  {
+    "Name": "Terminal-Icons",
+    "Version": {
+      "Major": 0,
+      "Minor": 11,
+      "Build": 0,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  {
+    "Name": "z",
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Build": 14,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  }
+]
